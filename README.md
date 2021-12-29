@@ -1,4 +1,4 @@
-# ensemble-learning-based-multimarker-association-test
+# Ensemble-learning-based-multimarker-association-test
 Testing association of a group of markers with continuous and case-control phenotypes
 
 The following R program can be used for testing association of a group of markers with continuous and case-control traits. (For methodological details please refer to: Padhukasahasram B, Reddy CK, Levin AM, Burchard EG, Williams LK (2015) Powerful Tests for Multi-Marker Association Analysis Using Ensemble Learning. PLoS ONE 10(11): e0143489. doi:10.1371/journal.pone.0143489)
@@ -45,7 +45,7 @@ Rscript multimarker-association-version2.0-faster.R -snps 12 -features 3 -sample
 
 
 
-
+# Ensemble-learning-based-multimarker-interactions-test
 
 
 The following R program can be used to conduct a multi-marker test for interactions.
