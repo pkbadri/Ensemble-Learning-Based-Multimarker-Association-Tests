@@ -3,6 +3,8 @@ Testing association of a group of markers with continuous and case-control pheno
 
 The following R program can be used for testing association of a group of markers with continuous and case-control traits. (For methodological details please refer to: Padhukasahasram B, Reddy CK, Levin AM, Burchard EG, Williams LK (2015) Powerful Tests for Multi-Marker Association Analysis Using Ensemble Learning. PLoS ONE 10(11): e0143489. doi:10.1371/journal.pone.0143489)
 
+https://github.com/pkbadri/ensemble-learning-based-multimarker-association-test/blob/main/multimarker-association-version2.0-faster.R
+
 The following are the command line parameters to be specified in this same order:
 
 -snps Number of markers.
@@ -29,8 +31,8 @@ Rscript multimarker-association-version2.0-faster.R -snps 12 -features 3 -sample
 
 
 The following R program can be used to conduct a multi-marker test for interactions.
-https://sourceforge.net/projects/multi-marker-association-tests/files/multimarker-interactions-test.R
 
+https://github.com/pkbadri/ensemble-learning-based-multimarker-association-test/blob/main/multimarker-interactions-test.R
 
 Usage is same as before. For example:
 Rscript multimarker-interactions-test.R -snps 12 -features 3 -samples 2790 -trait 1 -covs 3 -snpfile snps -phenofile pheno -covfile covariates
