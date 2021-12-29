@@ -39,6 +39,15 @@ Rscript multimarker-association-version2.0-faster.R -snps 12 -features 3 -sample
 
 
 
+
+
+
+
+
+
+
+
+
 The following R program can be used to conduct a multi-marker test for interactions.
 
 https://github.com/pkbadri/ensemble-learning-based-multimarker-association-test/blob/main/multimarker-interactions-test.R
