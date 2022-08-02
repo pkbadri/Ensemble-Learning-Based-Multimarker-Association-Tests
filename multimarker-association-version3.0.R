@@ -1,3 +1,4 @@
+## Replaces random forests with light gbm
 library(lightgbm)
 library(foreach)
 library(doParallel)
